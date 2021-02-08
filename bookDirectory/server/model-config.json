@@ -14,7 +14,7 @@
     ]
   },
   "book": {
-    "dataSource": null,
+    "dataSource": "db",
     "public": true
   }
 }
