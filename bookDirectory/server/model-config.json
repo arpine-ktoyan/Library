@@ -12,5 +12,9 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "book": {
+    "dataSource": null,
+    "public": true
   }
 }
